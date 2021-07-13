@@ -1,8 +1,6 @@
 title: "Getting-and-Cleaning-Data-Week-4-Assignment" 
 
-author: "Michael Schroff" 
 
-date: "25.01.2018" 
 
 output: "tidydate.txt""
 
